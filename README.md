@@ -18,3 +18,4 @@ To use the script, simply run it in a PowerShell console. The script will read t
 - The script creates symlinks from the download location to the server folder. This means that if you delete or move the downloaded mods, the symlinks will be broken.
 - The script only copies `.bikey` files if they do not already exist in the server's keys folder.
 - The `start.bat` file created by the script starts the DayZ server with all downloaded mods enabled.
+- Readme was generated with AI because i suck at documentation. Also i was inspired by this project. (https://github.com/canuckbrian/A3Scripts)
