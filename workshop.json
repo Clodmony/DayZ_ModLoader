@@ -1,0 +1,127 @@
+{
+
+    "scriptcfg": [
+        {
+            "serverpath": "C:\\Users\\Administrator\\Desktop\\dayzServer_single",
+            "steamcmd": "C:\\Users\\Administrator\\Desktop\\Updater\\SteamCMD"
+        }
+    ],
+
+    "steamWsMods": [
+        {
+            "workshopId": "1559212036",
+            "name": "@CF",
+            "download": "true"
+        },
+        {
+            "workshopId": "1564026768",
+            "name": "@Community-Online-Tools",
+            "download": "true"
+        },
+        {
+            "workshopId": "2116157322",
+            "name": "@DayZ-Expansion-Licensed",
+            "download": "true"
+        },
+        {
+            "workshopId": "2545327648",
+            "name": "@Dabs-Framework",
+            "download": "true"
+        },
+        {
+            "workshopId": "2116151222",
+            "name": "@DayZ-Expansion",
+            "download": "true"
+        },
+        {
+            "workshopId": "2792982069",
+            "name": "@DayZ-Expansion-AI",
+            "download": "true"
+        },
+        {
+            "workshopId": "2792982513",
+            "name": "@DayZ-Expansion-BaseBuilding",
+            "download": "true"
+        },
+        {
+            "workshopId": "2572324799",
+            "name": "@DayZ-Expansion-Book",
+            "download": "true"
+        },
+        {
+            "workshopId": "2792982897",
+            "name": "@DayZ-Expansion-Chat",
+            "download": "true"
+        },
+        {
+            "workshopId": "2291785308",
+            "name": "@DayZ-Expansion-Core",
+            "download": "true"
+        },
+        {
+            "workshopId": "2291785437",
+            "name": "@DayZ-Expansion-Vehicles",
+            "download": "true"
+        },
+        {
+            "workshopId": "2572328470",
+            "name": "@DayZ-Expansion-Market",
+            "download": "true"
+        },
+        {
+            "workshopId": "2576460232",
+            "name": "@DayZ-Expansion-Name-Tags",
+            "download": "true"
+        },
+        {
+            "workshopId": "2804241648",
+            "name": "@DayZ-Expansion-Spawn-Selection",
+            "download": "true"
+        },
+        {
+            "workshopId": "2792983364",
+            "name": "@DayZ-Expansion-Groups",
+            "download": "true"
+        },
+        {
+            "workshopId": "2792983824",
+            "name": "@DayZ-Expansion-Map-Assets",
+            "download": "true"
+        },
+        {
+            "workshopId": "2792984177",
+            "name": "@DayZ-Expansion-Missions",
+            "download": "true"
+        },
+        {
+            "workshopId": "2792984722",
+            "name": "@DayZ-Expansion-Navigation",
+            "download": "true"
+        },
+        {
+            "workshopId": "2792985069",
+            "name": "@DayZ-Expansion-Weapons",
+            "download": "true"
+        },
+        {
+            "workshopId": "2828487396",
+            "name": "@DayZ-Expansion-Hardline",
+            "download": "true"
+        },
+        {
+            "workshopId": "2828486817",
+            "name": "@DayZ-Expansion-Quests",
+            "download": "true"
+        },
+        {
+            "workshopId": "2793893086",
+            "name": "@DayZ-Expansion-Animations",
+            "download": "true"
+        },
+        {
+            "workshopId": "2946236937",
+            "name": "@DayZ-Expansion-Personal-Storage",
+            "download": "true"
+        }
+    ]
+}
