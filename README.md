@@ -19,3 +19,10 @@ To use the script, simply run it in a PowerShell console. The script will read t
 - The script only copies `.bikey` files if they do not already exist in the server's keys folder.
 - The `start.bat` file created by the script starts the DayZ server with all downloaded mods enabled.
 - Readme was generated with AI because i suck at documentation. Also i was inspired by this project. (https://github.com/canuckbrian/A3Scripts)
+
+
+## Planed
+
+- Menu with different functions to add/remove mods via script
+- Handle multiple dayz Server instances
+- Can't think of any more features at the moment
