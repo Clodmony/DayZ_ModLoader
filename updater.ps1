@@ -11,7 +11,7 @@ if ( ($null -eq $mods.scriptcfg.steamcmd) -or ($null -eq $mods.scriptcfg.serverp
 } else {
 
     $steamcmdpath = $mods.scriptcfg.steamcmd  # Location of SteamCMD folder
-    $Modfolder = $mods.scriptcfg.serverpath  # Location of Arma 3 server folder
+    $Modfolder = $mods.scriptcfg.serverpath  # Location of DayZ server folder
 
 }
 
